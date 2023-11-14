@@ -1,0 +1,20 @@
+What is React ?
+
+React is a Javascript library for building user interfaces.
+
+React bulids the app and website more attractive and easy maintaine. 
+
+React app are having 4 different basic. 
+1. Components.
+2. JSX
+3. Props
+4. State
+
+Components are bulid on 3 three things.
+1. HTML
+2. CSS
+3. JavaScript.
+
+
+
+
