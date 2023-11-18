@@ -16,5 +16,22 @@ Components are bulid on 3 three things.
 3. JavaScript.
 
 
+How to set react project in one command. 
+npx create-react-app "Project-Name"
+
+2. method via npm
+
+npm install -g create-react-app
+create-react-app "reactprojectname"
+
+3. React Core Concepts 
+1. Components
+2. JSX
+3. Props
+4. States
+
+
+
+
 
 
